@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_1_6_7">
+    <title>1.6.7熟练检查</title>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_am3_43k_wdc">
+                <tgroup cols="1">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p>由局方监察员、局方委任代表或熟练检查员对飞行人员，每6个日历月进行一次。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>
