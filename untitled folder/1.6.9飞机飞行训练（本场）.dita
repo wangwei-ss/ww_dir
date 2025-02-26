@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_1_6_9">
+    <title>1.6.9飞机飞行训练（本场）</title>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_jps_v3k_wdc">
+                <tgroup cols="1">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p>完成初始训练模拟机课程段的受训驾驶员；</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>完成升级训练模拟机课程段的受训驾驶员；</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>经总飞行师批准的本场训练。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>

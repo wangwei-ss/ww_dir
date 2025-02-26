@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_1_6_3">
+    <title>1.6.3差异训练</title>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_ib5_fdk_wdc">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <tbody>
+                        <row>
+                            <entry namest="c1" nameend="c2">
+                                <p>当公司与另一方签订训练合同或在租赁的与公司经营飞机的仪表或设备存在差异的模拟机上实施训练时；</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="c1" nameend="c2">
+                                <p>当公司由于在现有机群中引进飞机的改型，或由于改装了机群中一种以上飞机而出现了飞机改型，需要进行差异训练时；</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="c1" nameend="c2">
+                                <p>设备升级或改装；</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="c1" nameend="c2">
+                                <p>当公司兼并和收购需运营被兼并的不同型号的飞机时；</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="c1" nameend="c2">
+                                <p>注：某一具体型别飞机的所有改型的差异训练，可以包括在该飞机的新雇员训练、初始训练、转机型训练、升级训练或定期复训中完成。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="c1" nameend="c2" align="center"><b>现有机型的差异训练</b></entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>新雇员</p>
+                            </entry>
+                            <entry>
+                                <p>根据拟定岗位在初始训练、转机型训练或年度复训中完成。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>转机型的飞行人员</p>
+                            </entry>
+                            <entry>
+                                <p>在转机型训练中完成。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>升级训练的飞行人员</p>
+                            </entry>
+                            <entry>
+                                <p>在升级训练中完成。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="c1" nameend="c2" align="center">
+                                <p><b>随后公司选型的差异</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>该机队现有飞行人员</p>
+                            </entry>
+                            <entry>
+                                <p>完成差异训练</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>随后转入该机型的飞行人员</p>
+                            </entry>
+                            <entry>
+                                <p>在转机型训练中完成。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>
+<?oxy_options track_changes="on"?>
