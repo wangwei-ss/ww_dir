@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="_1_1">
-    <title>1.1 概述</title>
+    <?oxy_delete author="wangwei-ss" timestamp="20250228T113201+0800" content="&lt;title&gt;1.1 概述&lt;/title&gt;"?>
     <body>
+        <p><?oxy_delete author="wangwei-ss" timestamp="20250228T113150+0800" content="本章"?><?oxy_insert_start author="wangwei-ss" timestamp="20250228T113202+0800"?>1.1
+            概述<?oxy_insert_end?><?oxy_delete author="wangwei-ss" timestamp="20250228T113150+0800" content="概述了公司飞行训练的要求、设备、方法、进入条件和建立运行经历等。"?></p>
+        <?oxy_insert_start author="wangwei-ss" timestamp="20250228T113150+0800"?>
         <p>本章概述了公司飞行训练的要求、设备、方法、进入条件和建立运行经历等。</p>
+        <?oxy_insert_end?>
         <p>在实施各类培训时，首先应介绍该训练场所的应急设施和逃生方法。</p>
     </body>
 </topic>
